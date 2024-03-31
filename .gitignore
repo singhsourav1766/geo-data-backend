@@ -1,0 +1,21 @@
+# Go specific
+*.exe
+*.dll
+*.exe~
+*.dll~
+*.exe.a
+*.exe~
+*.dll~
+*.test
+*.out
+*.tar.gz
+
+# Build
+build/
+bin/
+uploads/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
